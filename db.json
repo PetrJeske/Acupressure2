@@ -1,0 +1,9 @@
+	[
+  {
+	 "id" : "nadocnicovy_oblouk",
+	 "name" : "Nadocnicovy oblouk",
+	 "body_location" : "loc_head",
+	 "image" : "url1",
+	 "map": {"headache":"Masirujte body na zevnich koncich oboci."}
+  }
+  ]
