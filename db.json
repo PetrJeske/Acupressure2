@@ -1,14 +1,98 @@
-[
-  {
+{
+   "points":[
+	{
 	 "id" : "nadocnicovy_oblouk",
 	 "name" : "Nadocnicovy oblouk",
 	 "body_location" : "loc_head",
-	 "image" : "url1"
-  },
-  {
-	 "id" : "nadocnicovy_oblouk2",
-	 "name" : "Nadocnicovy oblouk",
+	 "image" : "url1",
+	 "map": {"headache":"Masirujte body na zevnich koncich oboci."}
+    },
+	{
+	 "id" : "body_za_usima",
+	 "name" : "Bod za uchem",
 	 "body_location" : "loc_head",
-	 "image" : "url1"
-  }	
-]
+	 "image" : "url1",
+	 "map": {"headache":"Masirujte body za usima, tj citliva mista v prohloubenince pod kostnim vybezkem."}
+    },
+	{
+	 "id" : "body_ve_stredech_ramen",
+	 "name" : "Body ve stredech ramen",
+	 "body_location" : "loc_head",
+	 "image" : "url1",
+	 "map": {"headache":"Masirujte body uprostred ramen."}
+    },
+	{
+	 "id" : "bod_u_korene_palce",
+	 "name" : "Bod u korene palce",
+	 "body_location" : "loc_hands",
+	 "image" : "url2",
+	 "map": {"headache":"Masirujte body na hrbetu rukou uprostred mezi palcem a ukazovackem.",
+			 "toothache" : "Masirujte body na hrbetu rukou uprostred mezi palcem a ukazovackem stejne jako pri bolesti hlavy."}
+    },
+	{
+	 "id" : "stredy_licnich_kosti",
+	 "name" : "Stredy licnich kosti",
+	 "body_location" : "loc_head",
+	 "image" : "url3",
+	 "map": {"toothache":"Masirujte body pod stredem licnich kosti."}
+    },
+	{
+	 "id" : "predni_okraj_dolni_celisti",
+	 "name" : "Predni okraj dolni celisti",
+	 "body_location" : "loc_head",
+	 "image" : "url3",
+	 "map": {"toothache":"Masirujte body na prednim okraji dolni celisti."}
+    },
+	{
+	 "id" : "uhel_dolni_celisti",
+	 "name" : "Body na uhlu dolni celisti",
+	 "body_location" : "loc_head",
+	 "image" : "url3",
+	 "map": {"toothache":"Masirujte body na uhlu dolni celisti."}
+    }
+    ],
+   
+	"groups": [
+	{
+	 "id" : "headache",
+	 "difficulties" : "Headache"
+	},
+	{
+	 "id" : "toothache",
+	 "difficulties" : "Toothache"
+	},
+	{
+	 "id" : "hand_joint_pain",
+	 "difficulties" : "Hand joint pain"
+	},
+	{
+	 "id" : "headache",
+	 "difficulties" : "Headache"
+	},
+	{
+	 "id" : "cervical_spine_pain",
+	 "difficulties" : "Cervical spine pain"
+	},
+	{
+	 "id" : "thoracic_spine_pain",
+	 "difficulties" : "Thoracic spine pain"
+	},
+	{
+	 "id" : "lumbar_spine_pain",
+	 "difficulties" : "Lumbar spine pain"
+	},
+		{
+	 "id" : "ankle_pain",
+	 "difficulties" : "Ankle pain"
+	},
+		{
+	 "id" : "shoulder_pain",
+	 "difficulties" : "Shoulder pain"
+	},
+		{
+	 "id" : "elbow_pain",
+	 "difficulties" : "Elbow pain"
+	}
+	],
+	"locations": ["loc_head", "loc_torso", "loc_hands", "loc_legs"]
+}
