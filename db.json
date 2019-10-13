@@ -3,13 +3,12 @@
 	 "id" : "nadocnicovy_oblouk",
 	 "name" : "Nadocnicovy oblouk",
 	 "body_location" : "loc_head",
-	 "image" : "url1",
+	 "image" : "url1"
   },
   {
 	 "id" : "nadocnicovy_oblouk2",
 	 "name" : "Nadocnicovy oblouk",
 	 "body_location" : "loc_head",
-	 "image" : "url1",
-  }
-	
+	 "image" : "url1"
+  }	
 ]
