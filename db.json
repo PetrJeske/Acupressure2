@@ -55,17 +55,17 @@
 	"groups": [
 	{
 	 "id" : "headache",
-	 "image_url" : "https://github.com/PetrJeske/Acupressure2/wiki",
+	 "image_url" : "https://github.com/bumptech/glide/blob/master/static/glide_logo.png",
 	 "difficulties" : "Headache"
 	},
 	{
 	 "id" : "toothache",
-	 "image_url" : "https://github.com/PetrJeske/Acupressure2/wiki",
+	 "image_url" : "https://github.com/bumptech/glide/blob/master/static/glide_logo.png",
 	 "difficulties" : "Toothache"
 	},
 	{
 	 "id" : "hand_joint_pain",
-	 "image_url" : "https://github.com/PetrJeske/Acupressure2/wiki",	
+	 "image_url" : "https://github.com/bumptech/glide/blob/master/static/glide_logo.png",	
 	 "difficulties" : "Hand joint pain"
 	}
 	],
