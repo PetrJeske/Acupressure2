@@ -55,53 +55,18 @@
 	"groups": [
 	{
 	 "id" : "headache",
-	 "image_url" : "url3",
+	 "image_url" : "https://github.com/PetrJeske/Acupressure2/wiki",
 	 "difficulties" : "Headache"
 	},
 	{
 	 "id" : "toothache",
-	 "image_url" : "url3",
+	 "image_url" : "https://github.com/PetrJeske/Acupressure2/wiki",
 	 "difficulties" : "Toothache"
 	},
 	{
 	 "id" : "hand_joint_pain",
-	 "image_url" : "url3",	
+	 "image_url" : "https://github.com/PetrJeske/Acupressure2/wiki",	
 	 "difficulties" : "Hand joint pain"
-	},
-	{
-	 "id" : "headache",
-	 "image_url" : "url3",	
-	 "difficulties" : "Headache"
-	},
-	{
-	 "id" : "cervical_spine_pain",
-	 "image_url" : "url3",	
-	 "difficulties" : "Cervical spine pain"
-	},
-	{
-	 "id" : "thoracic_spine_pain",
-	 "image_url" : "url3",	
-	 "difficulties" : "Thoracic spine pain"
-	},
-	{
-	 "id" : "lumbar_spine_pain",
-	 "image_url" : "url3",
-	 "difficulties" : "Lumbar spine pain"
-	},
-		{
-	 "id" : "ankle_pain",
-	 "image_url" : "url3",		
-	 "difficulties" : "Ankle pain"
-	},
-		{
-	 "id" : "shoulder_pain",
-	 "image_url" : "url3",		
-	 "difficulties" : "Shoulder pain"
-	},
-		{
-	 "id" : "elbow_pain",
-	 "image_url" : "url3",		
-	 "difficulties" : "Elbow pain"
 	}
 	],
 	"locations": ["loc_head", "loc_torso", "loc_hands", "loc_legs"]
