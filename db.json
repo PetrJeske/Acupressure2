@@ -3,6 +3,7 @@
 	{
 	 "id" : "os7",
 	 "name" : "OS 7",
+	 "body_location" : "loc_hand",
 	 "image" : ["https://user-images.githubusercontent.com/28513965/69742776-9cd36b80-113d-11ea-96fb-4d4b48c869b2.PNG"],
 	 "video": [""],
 	 "problemTags" :  [ "poruchy_prokrveni", "zanet_stitne_zlazy"],
@@ -11,6 +12,7 @@
 	{
 	 "id" : "os8",
 	 "name" : "OS 8",
+	 "body_location" : "loc_hand",
 	 "image" : ["https://user-images.githubusercontent.com/28513965/69742773-9c3ad500-113d-11ea-82b5-80ad7df78ca2.PNG"],
 	 "video": [""],
 	 "problemTags" :  [ "astma", "zanet_slach"],
@@ -19,6 +21,7 @@
 	{
 	 "id" : "s3",
 	 "name" : "S 3",
+	 "body_location" : "loc_hand",
 	 "image" : ["https://user-images.githubusercontent.com/28513965/69742785-9e049880-113d-11ea-8131-3218f5370473.PNG"],
 	 "video": [""],
 	 "problemTags" :  [ "pasovy_opar", "fobie"],
@@ -27,6 +30,7 @@
 	{
 	 "id" : "s7",
 	 "name" : "S 7",
+	 "body_location" : "loc_hand",
 	 "image" : ["https://user-images.githubusercontent.com/28513965/69742780-9d6c0200-113d-11ea-9f87-967773da1437.PNG"],
 	 "video": [""],
 	 "problemTags" :  [ "deprese", "nespavost"],
@@ -35,6 +39,7 @@
 	{
 	 "id" : "s9",
 	 "name" : "S 9",
+	 "body_location" : "loc_head",
 	 "image" : ["https://user-images.githubusercontent.com/28513965/69742783-9e049880-113d-11ea-97a7-f1f65fa006fb.PNG"],
 	 "video": [""],
 	 "problemTags" :  [ "nespavost"],
@@ -71,7 +76,7 @@
 	{
 	 "id" : "deprese",
 	 "image_url" : "https://user-images.githubusercontent.com/28513965/69742780-9d6c0200-113d-11ea-9f87-967773da1437.PNG",	
-	 "difficulties" : "Nespavost"
+	 "difficulties" : "Deprese"
 	},
 	{
 	 "id" : "nespavost",
