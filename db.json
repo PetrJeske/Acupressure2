@@ -55,42 +55,52 @@
 	"groups": [
 	{
 	 "id" : "headache",
+	 "image" : "url3",
 	 "difficulties" : "Headache"
 	},
 	{
 	 "id" : "toothache",
+	 "image" : "url3",
 	 "difficulties" : "Toothache"
 	},
 	{
 	 "id" : "hand_joint_pain",
+	 "image" : "url3",	
 	 "difficulties" : "Hand joint pain"
 	},
 	{
 	 "id" : "headache",
+	 "image" : "url3",	
 	 "difficulties" : "Headache"
 	},
 	{
 	 "id" : "cervical_spine_pain",
+	 "image" : "url3",	
 	 "difficulties" : "Cervical spine pain"
 	},
 	{
 	 "id" : "thoracic_spine_pain",
+	 "image" : "url3",	
 	 "difficulties" : "Thoracic spine pain"
 	},
 	{
 	 "id" : "lumbar_spine_pain",
+	 "image" : "url3",
 	 "difficulties" : "Lumbar spine pain"
 	},
 		{
 	 "id" : "ankle_pain",
+	 "image" : "url3",		
 	 "difficulties" : "Ankle pain"
 	},
 		{
 	 "id" : "shoulder_pain",
+	 "image" : "url3",		
 	 "difficulties" : "Shoulder pain"
 	},
 		{
 	 "id" : "elbow_pain",
+	 "image" : "url3",		
 	 "difficulties" : "Elbow pain"
 	}
 	],
