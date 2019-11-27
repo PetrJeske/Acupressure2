@@ -55,17 +55,17 @@
 	"groups": [
 	{
 	 "id" : "headache",
-	 "image_url" : "https://futurestud.io/images/futurestudio-university-logo.png",
+	 "image_url" : "https://user-images.githubusercontent.com/28513965/69738219-018ac800-1136-11ea-8540-c4df679eda85.jpg",
 	 "difficulties" : "Headache"
 	},
 	{
 	 "id" : "toothache",
-	 "image_url" : "https://futurestud.io/images/futurestudio-university-logo.png",
+	 "image_url" : "https://user-images.githubusercontent.com/28513965/69738219-018ac800-1136-11ea-8540-c4df679eda85.jpg",
 	 "difficulties" : "Toothache"
 	},
 	{
 	 "id" : "hand_joint_pain",
-	 "image_url" : "https://futurestud.io/images/futurestudio-university-logo.png",	
+	 "image_url" : "https://user-images.githubusercontent.com/28513965/69738219-018ac800-1136-11ea-8540-c4df679eda85.jpg",	
 	 "difficulties" : "Hand joint pain"
 	}
 	],
