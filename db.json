@@ -96,12 +96,12 @@
 	"groups": [
 	{
 	 "id" : "alergie",
-	 "image_url" : "https://user-images.githubusercontent.com/28513965/69742772-9c3ad500-113d-11ea-944a-d5cf678d52fd.PNG",	
+	 "image_url" : "https://user-images.githubusercontent.com/28513965/69816030-dec0e800-11f7-11ea-8d18-b4dcc2d28e0e.PNG",	
 	 "difficulties" : "Alergie"
 	},
 	{
 	 "id" : "astma",
-	 "image_url" : "https://user-images.githubusercontent.com/28513965/69742774-9c3ad500-113d-11ea-851a-538ce28086dc.PNG",	
+	 "image_url" : "https://user-images.githubusercontent.com/28513965/69816031-df597e80-11f7-11ea-9876-0d252baca1a2.png",	
 	 "difficulties" : "Astma"
 	},
 	{
@@ -111,32 +111,32 @@
 	},
 	{
 	 "id" : "zanet_stitne_zlazy",
-	 "image_url" : "https://user-images.githubusercontent.com/28513965/69742776-9cd36b80-113d-11ea-96fb-4d4b48c869b2.PNG",	
+	 "image_url" : "https://user-images.githubusercontent.com/28513965/69816140-129c0d80-11f8-11ea-970e-b41fc28e45c9.png",	
 	 "difficulties" : "Zánět štítné žlázy"
 	},
 	{
 	 "id" : "kolika",
-	 "image_url" : "https://user-images.githubusercontent.com/28513965/69742778-9cd36b80-113d-11ea-9009-3b1a20f04f0d.PNG",	
+	 "image_url" : "https://user-images.githubusercontent.com/28513965/69816140-129c0d80-11f8-11ea-970e-b41fc28e45c9.png",	
 	 "difficulties" : "Kolika"
 	},
 	{
 	 "id" : "deprese",
-	 "image_url" : "https://user-images.githubusercontent.com/28513965/69742780-9d6c0200-113d-11ea-9f87-967773da1437.PNG",	
+	 "image_url" : "https://user-images.githubusercontent.com/28513965/69816032-df597e80-11f7-11ea-8b95-daef52cbd234.PNG",	
 	 "difficulties" : "Deprese"
 	},
 	{
 	 "id" : "nespavost",
-	 "image_url" : "https://user-images.githubusercontent.com/28513965/69742780-9d6c0200-113d-11ea-9f87-967773da1437.PNG",	
+	 "image_url" : "https://user-images.githubusercontent.com/28513965/69816138-12037700-11f8-11ea-94b7-97c776abc711.png",	
 	 "difficulties" : "Nespavost"
 	},
 	{
 	 "id" : "fobie",
-	 "image_url" : "https://user-images.githubusercontent.com/28513965/69742785-9e049880-113d-11ea-8131-3218f5370473.PNG",	
+	 "image_url" : "https://user-images.githubusercontent.com/28513965/69816034-df597e80-11f7-11ea-895f-d27a5fda8b99.PNG",	
 	 "difficulties" : "Fobie"
 	},
 	{
 	 "id" : "zvraceni",
-	 "image_url" : "https://user-images.githubusercontent.com/28513965/69742788-9e049880-113d-11ea-8347-68bb24e20a9f.PNG",	
+	 "image_url" : "https://user-images.githubusercontent.com/28513965/69816140-129c0d80-11f8-11ea-970e-b41fc28e45c9.png",	
 	 "difficulties" : "Zvracení"
 	}
 	],
