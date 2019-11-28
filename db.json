@@ -1,20 +1,125 @@
 {
    "points":[
 	{
-	 "id" : "ps 12",
-	 "name" : "PS 12",
+	 "id" : "zhong_wan",
+	 "name" : "Zhong wan",
 	 "body_location" : "loc_torso",
 	 "image" : ["https://user-images.githubusercontent.com/28513965/69795621-d0a9a200-11cc-11ea-836c-8e99264f8792.PNG"],
 	 "video": [""],
 	 "problemTags" :  [ "zvraceni", "zacpa"],
-	 "text" : "text",
 	 "text_complex": {
 		   "localisation" : "Ve středu vzdálenosti mezi mečíkem (spodní konec hrudní kosti) a pupkem cca 5 prstů nad pupkem." ,
 		   "function" : "Odstraňuje průjem, tiší bolest břicha.",
-		   "application" : "Jemně masírujte, po dobu 3 - 5 minut. V případě potřeby opakujte každých 30 minut."		
+		   "application" : "Jemně masírujte, po dobu 3 - 5 minut. V případě potřeby opakujte každých 30 minut."	}	
+	 },
+	{
+	 "id" : "zhangmen",
+	 "name" : "Zhangmen",
+	 "body_location" : "loc_hands",
+	 "image" : ["https://user-images.githubusercontent.com/28513965/69742788-9e049880-113d-11ea-8347-68bb24e20a9f.PNG"],
+	 "video": [""],
+	 "problemTags" :  [ "zvraceni", "alergie"],
+	 "text_complex": {
+		   "localisation" : "3 prsty nad zápěstní ohybovou rýhou uprostřed" ,
+		   "function" : "Lze jen použít pro odstranění žaludečních potíží, při zvýšeném krevním tlaku či v případě nespavosti.",
+		   "application" : "Zmáčknout a držet 1-2 min."	}	
+	 },
+	{
+	 "id" : "shen_shu",
+	 "name" : "Shen shu",
+	 "body_location" : "loc_hands",
+	 "image" : ["https://user-images.githubusercontent.com/28513965/69742776-9cd36b80-113d-11ea-96fb-4d4b48c869b2.PNG"],
+	 "video": [""],
+	 "problemTags" :  [ "poruchy_prokrveni", "zanet_stitne_zlazy"],
+	 "text_complex": {
+		   "localisation" : "Uprostřed řasy zápěstí, při ohybu mezi šlachami (při volném zápěstí)" ,
+		   "function" : "Vhodný při poruše štítné žlázy. Při náhlých návalech horka.",
+		   "application" : "Bod mačkejte několikrát za den." }		
+	 },
+	{
+	 "id" : "yao_yan",
+	 "name" : "Yao yan",
+	 "body_location" : "loc_hands",
+	 "image" : ["https://user-images.githubusercontent.com/28513965/69742773-9c3ad500-113d-11ea-82b5-80ad7df78ca2.PNG"],
+	 "video": [""],
+	 "problemTags" :  [ "astma", "zanet_slach"],
+	 "text_complex": {
+		   "localisation" : "Při volném sevření pěsti na dlani, mezi špičkami ukazováčku a prostředníčku prstů." ,
+		   "function" : "Bod využijete při zánětech šlach, či pro zklidnění při astmatickém záchvatu.",
+		   "application" : "Bod masírujte krouživými pohyby po dobu 4-5 minut."	}		
+	 },
+	{
+	 "id" : "nei_guan",
+	 "name" : "Nei guan",
+	 "body_location" : "loc_hands",
+	 "image" : ["https://user-images.githubusercontent.com/28513965/69742785-9e049880-113d-11ea-8131-3218f5370473.PNG"],
+	 "video": [""],
+	 "problemTags" :  [ "pasovy_opar", "fobie"],
+	 "text_complex": {
+		   "localisation" : "Loketní ohybová rýha, malíková hrana, na konci loketní řasy." ,
+		   "function" : "Bod aplikujte při pásovém oparu. Či při psychosomatických obtížích.",
+		   "application" : "Jemná masáž či poklep bodu." }		
+	 },
+	{
+	 "id" : "s7",
+	 "name" : "S 7",
+	 "body_location" : "loc_hands",
+	 "image" : ["https://user-images.githubusercontent.com/28513965/69742780-9d6c0200-113d-11ea-9f87-967773da1437.PNG"],
+	 "video": [""],
+	 "problemTags" :  [ "deprese", "nespavost"],
+	  "text_complex": {
+		   "localisation" : "Na malíkové hraně zápěstní ohybové hrany, na pomyslné čáře mezi malíkem a prsteníkem. " ,
+		   "function" : "Bod pomáhající při návalech depresí či při dlouhodobé nespavosti.",
+		   "application" : "Aplikovat při aktuálních potížích ve stavu deprese, při chronické nespavosti aplikovat pravidelně každý večer do odeznění potíží"	}		
+	 },
+	{
+	 "id" : "yang_ling_gnan",
+	 "name" : "Yang ling gnan",
+	 "body_location" : "loc_head",
+	 "image" : ["https://user-images.githubusercontent.com/28513965/69742783-9e049880-113d-11ea-97a7-f1f65fa006fb.PNG"],
+	 "video": [""],
+	 "problemTags" :  [ "nespavost"],
+	 "text_complex": {
+		   "localisation" : "Bod nacházející se na přechodu lalůčku a těla." ,
+		   "function" : "Bod pomáhající v případě nespavosti.",
+		   "application" : "Pro aplikace je vhodná jemná masáž 1-3min."	}		
+    },
+	{
+	 "id" : "bi_nao",
+	 "name" : "Bi nao",
+	 "body_location" : "loc_head",
+	 "image" : ["https://user-images.githubusercontent.com/28513965/69742772-9c3ad500-113d-11ea-944a-d5cf678d52fd.PNG"],
+	 "video": [""],
+	 "problemTags" :  [ "alergie"],
+	 "text_complex": {
+		   "localisation" : "Nejvyšší místo helixů, nejvyšší místo na uchu. " ,
+		   "function" : "Bod snižující negativní dopady alergických reakcí.",
+		   "application" : "Jemně mnout 1-5 min do pocitu uvolnění, včasná aplikace velmi uleví"	}		
+	 },
+	{
+	 "id" : "qu_chi",
+	 "name" : "Qu chi",
+	 "body_location" : "loc_legs",
+	 "image" : ["https://user-images.githubusercontent.com/28513965/69742775-9cd36b80-113d-11ea-9165-5bf3a9b62164.PNG"],
+	 "video": [""],
+	 "problemTags" :  [ "hubnuti", "zacpa"],
+	 "text_complex": {
+		   "localisation" : "U nehtového lůžka druhého prstu nohy (u ukazováčku)." ,
+		   "function" : "Vhodný pro odstranění zácpy, pro prokrvení nohou.",
+		   "application" : "Vhodné masáž aplikovat několikrát za den."	}		
+	 },
+	{
+	 "id" : "ba_liao",
+	 "name" : "Ba liao",
+	 "body_location" : "loc_legs",
+	 "image" : ["https://user-images.githubusercontent.com/28513965/69742779-9d6c0200-113d-11ea-9e0b-25b012734cfd.PNG"],
+	 "video": [""],
+	 "problemTags" :  [ "kolika"],
+	 "text_complex": {
+		   "localisation" : "Mezi palcem a ukazováčkem nohy, v prohlubni na konci rýhy nártních kůstek J 2, J 3 - Leží těsně na přechodu mezi palcem a ukazovákem - na kožní řase." ,
+		   "function" : "Body mají výrazný protikřečovitý účinek. Zvyšuje chuť k jídlu.",
+		   "application" : "Sedativně – 1-2 min zmáčknout a držet." }	
 	 }
-    	}
-	   
     ],
    
 	"groups": [
