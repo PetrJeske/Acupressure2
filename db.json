@@ -53,7 +53,26 @@
 	 "video": [""],
 	 "problemTags" :  [ "alergie"],
 	 "text": "Lokace: nejvyšší místo helixů, nejvyšší místo na uchu. Doporučení: jemně mnout 1-5 min do pocitu uvolnění, včasná aplikace velmi uleví, ušní svíce TS 4 (tlusté střevo) jedna denně, ½ svíce každá ruka"
+    	},
+	{
+	 "id" : "z45",
+	 "name" : "Ž 13",
+	 "body_location" : "loc_legs",
+	 "image" : ["https://user-images.githubusercontent.com/28513965/69742775-9cd36b80-113d-11ea-9165-5bf3a9b62164.PNG"],
+	 "video": [""],
+	 "problemTags" :  [ "hubnuti", "zacpa"],
+	 "text": "Lokace: nejvyšší místo helixů, nejvyšší místo na uchu. Doporučení: jemně mnout 1-5 min do pocitu uvolnění, včasná aplikace velmi uleví, ušní svíce TS 4 (tlusté střevo) jedna denně, ½ svíce každá ruka"
+    	},
+	{
+	 "id" : "j3",
+	 "name" : "J 3",
+	 "body_location" : "loc_legs",
+	 "image" : ["https://user-images.githubusercontent.com/28513965/69742779-9d6c0200-113d-11ea-9e0b-25b012734cfd.PNG"],
+	 "video": [""],
+	 "problemTags" :  [ "kolika"],
+	 "text": "Lokalizace: mezi palcem a ukazováčkem nohy, v prohlubni na konci rýhy nártních kůstek J 2, J 3 - Leží těsně na přechodu mezi palcem a ukazovákem - na kožní řase. Indikace: \n- výrazný protikřečovitý účinek\n- zvyšuje podíl vápníku ve svalech a krvi\n- upravuje (zvyšuje i snižuje) chuť k jídlu, harmonizuje \n- při psychických stavech podrážděnost a náladovost \n- při cukrovce"
     	}
+	   
     ],
    
 	"groups": [
@@ -73,9 +92,9 @@
 	 "difficulties" : "Hubnutí"
 	},
 	{
-	 "id" : "karpalni_tunely",
+	 "id" : "zanet_stitne_zlazy",
 	 "image_url" : "https://user-images.githubusercontent.com/28513965/69742776-9cd36b80-113d-11ea-96fb-4d4b48c869b2.PNG",	
-	 "difficulties" : "Karpální tunely"
+	 "difficulties" : "Zánět štítné žlázy"
 	},
 	{
 	 "id" : "kolika",
