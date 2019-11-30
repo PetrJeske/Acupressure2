@@ -66,8 +66,8 @@
 		   "application" : "Jemná masáž či poklep bodu." }		
 	 },
 	{
-	 "id" : "s7",
-	 "name" : "S 7",
+	 "id" : "shon_hua",
+	 "name" : "Shon hua",
 	 "body_location" : "loc_hands",
 	 "images" : ["https://user-images.githubusercontent.com/28513965/69742780-9d6c0200-113d-11ea-9f87-967773da1437.PNG"],
 	 "video": [""],
