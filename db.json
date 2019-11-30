@@ -93,7 +93,8 @@
 	 "id" : "bi_nao",
 	 "name" : "Bi nao",
 	 "body_location" : "loc_head",
-	 "images" : ["https://user-images.githubusercontent.com/28513965/69742772-9c3ad500-113d-11ea-944a-d5cf678d52fd.PNG"],
+	 "images" : ["https://user-images.githubusercontent.com/28513965/69742772-9c3ad500-113d-11ea-944a-d5cf678d52fd.PNG",
+		     "https://user-images.githubusercontent.com/28513965/69742773-9c3ad500-113d-11ea-82b5-80ad7df78ca2.PNG"],
 	 "video": [""],
 	 "problemTags" :  [ "alergie"],
 	 "text_complex": {
