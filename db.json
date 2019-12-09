@@ -16,7 +16,12 @@
 	 "id" : "zhangmen",
 	 "name" : "Zhangmen",
 	 "body_location" : "loc_hands",
-	 "images" : ["https://user-images.githubusercontent.com/28513965/69742788-9e049880-113d-11ea-8347-68bb24e20a9f.PNG"],
+	 "images" : ["https://user-images.githubusercontent.com/28513965/69742788-9e049880-113d-11ea-8347-68bb24e20a9f.PNG",
+		     "https://user-images.githubusercontent.com/28513965/69742772-9c3ad500-113d-11ea-944a-d5cf678d52fd.PNG",
+		     "https://user-images.githubusercontent.com/28513965/69742772-9c3ad500-113d-11ea-944a-d5cf678d52fd.PNG",
+		     "https://user-images.githubusercontent.com/28513965/69742772-9c3ad500-113d-11ea-944a-d5cf678d52fd.PNG",
+		     "https://user-images.githubusercontent.com/28513965/69742772-9c3ad500-113d-11ea-944a-d5cf678d52fd.PNG"
+		    ],
 	 "video": [""],
 	 "problemTags" :  [ "zvraceni", "alergie"],
 	 "text_complex": {
