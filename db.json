@@ -83,8 +83,8 @@
 		   "application" : "Aplikovat při aktuálních potížích ve stavu deprese, při chronické nespavosti aplikovat pravidelně každý večer do odeznění potíží"	}		
 	 },
 	{
-	 "id" : "yang_ling_gnan",
-	 "name" : "Yang ling gnan",
+	 "id" : "yang_ling",
+	 "name" : "Yang ling",
 	 "body_location" : "loc_head",
 	 "images" : ["https://user-images.githubusercontent.com/28513965/69742783-9e049880-113d-11ea-97a7-f1f65fa006fb.PNG"],
 	 "video": [""],
